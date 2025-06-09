@@ -38,7 +38,7 @@ This project demonstrates web scraping and data analysis using Python, Beautiful
 - After Month 8, the temperatures begin to drop again.
 
 #### Bar Chart: Average Minimum Temperature by Month
-![Average Minimum Temperature](Main_Code/avg_pressure.png)
+![Average Minimum Temperature](Main_Code/avg_temp.png)
 
 ---
 
@@ -49,8 +49,8 @@ This project demonstrates web scraping and data analysis using Python, Beautiful
 - Pressure steadily drops from Month 2 to Month 6.
 - From Month 7 onward, pressure rises, peaks in Month 9, and then gradually declines toward Month 12.
 
-#### 📊 Bar Chart: Average Atmospheric Pressure by Month
-![Average Atmospheric Pressure](avg_pressure.png)
+#### Bar Chart: Average Atmospheric Pressure by Month
+![Average Atmospheric Pressure](Main_Code/avg_pressure.png)
 
 ---
 
