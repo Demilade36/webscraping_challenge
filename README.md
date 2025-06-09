@@ -38,7 +38,7 @@ This project demonstrates web scraping and data analysis using Python, Beautiful
 - After Month 8, the temperatures begin to drop again.
 
 #### Bar Chart: Average Minimum Temperature by Month
-!avg_temp.png
+![Average Minimum Temperature](Main_Code/avg_pressure.png)
 
 ---
 
